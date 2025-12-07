@@ -19,3 +19,8 @@ This project focuses on analyzing customer shopping behavior to identify high-va
 
 ## Business Impact
 The insights from this analysis help businesses design targeted marketing strategies, improve customer engagement, and optimize revenue growth.
+
+## Dashboard Preview
+
+![Dashboard Overview](screenshots/Dashboard-Overview.png)
+![Payment Analysis](screenshots/Payment-Analysis.png)
